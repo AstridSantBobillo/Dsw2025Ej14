@@ -2,6 +2,9 @@
 ## Desarrollo de Software
 ### API Web
 
+## SANT BOBILLO, Astrid 57932 3K1
+## MANEFF, Ana Victoria 58006 3K1
+
 ## Tareas
 Bifurcar (fork) el repositorio.
 
